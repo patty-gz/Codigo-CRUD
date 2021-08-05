@@ -1,0 +1,5 @@
+CRUD01 --> maquinaria -
+CRUD02 --> cc
+CRUD03 --> empresa -
+CRUD04 --> trabajador -
+CRUD05 --> ordenservicio 
